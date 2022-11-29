@@ -1,1 +1,1 @@
-# Love2D-Games
+# Löve2D-Games
